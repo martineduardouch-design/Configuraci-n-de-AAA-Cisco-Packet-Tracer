@@ -1,4 +1,4 @@
-2. 🗂️ Topología de Red
+🗂️ Topología de Red
 
 La red se compone de tres routers (R1, R2, R3) conectados a sus respectivas PCs y servidores de autenticación.
 
